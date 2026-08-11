@@ -1,0 +1,5 @@
+simulaciones,partidas,winrate_pct,score_negro_prom,score_blanco_prom,margen_prom,movimientos_prom,tiempo_prom_seg,tiempo_desv_est,capturas_negro_prom,capturas_blanco_prom
+100,3,100.0,23.67,7.17,16.5,45.33,0.18,0.004,17.33,1
+300,3,100.0,18.67,11.5,7.17,33.33,0.617,0.035,10,0
+600,3,100.0,19.33,10.17,9.17,45,1.05,0.09,17.67,0.67
+1000,3,100.0,21.67,8.5,13.17,39.67,1.905,0.092,16,1
