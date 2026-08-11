@@ -66,14 +66,4 @@ y escalabilidad del tiempo de decisión según el tamaño del tablero), e
 imprime el progreso en consola. Al terminar regenera `informe_analisis.md`,
 los `.png` y el `.csv`. Tarda entre 1 y 3 minutos según el hardware.
 
-## Sobre el documental de AlphaGo
 
-No tengo capacidad de reproducir video directamente, así que esta
-implementación se basa en mi conocimiento previo, ampliamente documentado,
-del artículo original de DeepMind (Silver et al., *Nature*, 2016) y de la
-cobertura pública del documental: la victoria de AlphaGo sobre Lee Sedol en
-2016 marcó un hito porque el Go, a diferencia del ajedrez, tiene un espacio
-de búsqueda demasiado grande para la fuerza bruta, y requería intuición
-posicional — de ahí el uso de redes neuronales profundas combinadas con
-MCTS. Ese es exactamente el diseño que esta implementación simplifica y
-documenta en `go_ai.py` y en `informe_analisis.md`.
